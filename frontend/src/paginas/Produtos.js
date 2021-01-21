@@ -5,7 +5,7 @@ export default class Produtos extends React.Component {
 
     render() {
         return (
-            <section>
+            <section style={{minHeight: '600px'}}>
 
                 <div className="container">
                     <div className="row d-flex flex-nowrap">
